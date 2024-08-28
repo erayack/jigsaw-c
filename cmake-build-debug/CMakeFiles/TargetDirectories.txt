@@ -1,0 +1,3 @@
+/Users/erayack/CLionProjects/jigsaw/cmake-build-debug/CMakeFiles/jigsaw.dir
+/Users/erayack/CLionProjects/jigsaw/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/erayack/CLionProjects/jigsaw/cmake-build-debug/CMakeFiles/rebuild_cache.dir
