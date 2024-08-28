@@ -43,9 +43,3 @@ After building the project, you can run the executable:
 ```
 
 The program will create some pieces for testing and attempt to solve the puzzle, displaying the result in the console.
-
-## Contributing
-Contributions are welcome! Please open an issue or submit a pull request for any enhancements or bug fixes.
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
